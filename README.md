@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 - <b>Python</b>
-  - [Password Strength Checker](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Password Strength Checker](https://github.com/ycarmack2647/PasswordStrengthChecker)
 <h2>Certifications</h2> 
 
 - [CompTia Security+]
